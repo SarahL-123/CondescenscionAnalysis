@@ -28,10 +28,12 @@ In conclusion, if we have access to the reply we can predict if someone is being
 
 ---
 
-# Contents
-
-
-
+## Contents
+1. Introduction and EDA
+2. Logistic Regression and Analysis
+3. Topic Modelling and Unsupervised Learning
+4. BERT
+5. Conclusion
 
 ---
 
